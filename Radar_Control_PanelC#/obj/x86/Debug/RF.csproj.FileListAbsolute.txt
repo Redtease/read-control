@@ -1,0 +1,16 @@
+C:\Users\xy\documents\visual studio 2010\Projects\RF\bin\Debug\RF.exe
+C:\Users\xy\documents\visual studio 2010\Projects\RF\bin\Debug\RF.pdb
+C:\Users\xy\documents\visual studio 2010\Projects\RF\obj\x86\Debug\RF.csprojResolveAssemblyReference.cache
+C:\Users\xy\documents\visual studio 2010\Projects\RF\obj\x86\Debug\RF.Form1.resources
+C:\Users\xy\documents\visual studio 2010\Projects\RF\obj\x86\Debug\RF.Properties.Resources.resources
+C:\Users\xy\documents\visual studio 2010\Projects\RF\obj\x86\Debug\RF.csproj.GenerateResource.Cache
+C:\Users\xy\documents\visual studio 2010\Projects\RF\obj\x86\Debug\RF.exe
+C:\Users\xy\documents\visual studio 2010\Projects\RF\obj\x86\Debug\RF.pdb
+C:\Users\xy\Desktop\硬件项目\项目文件\obj\x86\Debug\RF.exe
+C:\Users\xy\Desktop\硬件项目\项目文件\obj\x86\Debug\RF.pdb
+C:\Users\xy\Desktop\硬件项目\项目文件\obj\x86\Debug\RF.csprojResolveAssemblyReference.cache
+C:\Users\xy\Desktop\硬件项目\项目文件\obj\x86\Debug\RF.Form1.resources
+C:\Users\xy\Desktop\硬件项目\项目文件\obj\x86\Debug\RF.Properties.Resources.resources
+C:\Users\xy\Desktop\硬件项目\项目文件\obj\x86\Debug\RF.csproj.GenerateResource.Cache
+C:\Users\xy\Desktop\硬件项目\项目文件\bin\Debug\RF.exe
+C:\Users\xy\Desktop\硬件项目\项目文件\bin\Debug\RF.pdb
